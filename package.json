@@ -1,0 +1,25 @@
+{
+  "name": "cloak-express-cms",
+  "version": "0.0.0",
+  "description": "A Node.js CMS using Express.js and Cloak.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  	"type": "git",
+  	"url": "git://github.com/UmbraEngineering/express-cloak-cms"
+  },
+  "keywords": [
+    "cms",
+    "express",
+    "cloak"
+  ],
+  "author": "James Brumond <james@jbrumond.me> (http://www.jbrumond.me)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.4.7",
+    "mongoose": "~3.8.4",
+    "node-conf": "0.0.6"
+  }
+}
