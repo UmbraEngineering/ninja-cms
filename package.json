@@ -1,5 +1,5 @@
 {
-  "name": "cloak-express-cms",
+  "name": "ninja-cms",
   "version": "0.0.0",
   "description": "A Node.js CMS using Express.js and Cloak.js",
   "main": "index.js",
